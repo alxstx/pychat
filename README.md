@@ -1,2 +1,3 @@
-# pychat
-This is a chat on Python with a graphical interface
+# Chat in Python
+This is a chat in Python with a graphical interface
+
